@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="pt-br">
+    <head>
+        <meta charset="utf-8">
+        <title>Programação</title>
+    </head>
+
+    <body>
+        <h1>
+            Receita de Pato
+        </h1>
+
+        <h3> Modo de Preparo</h3>
+
+        <img src="img/pato_laranja.jpg" width="120" height="120" title="Foto do pato com laranja"
+        alt="Foto do pato com laranja" 
+
+        style="float:left; margin-right: 10px; border: 1px solid #000; margin-bottom: 10px"
+        >
+
+        <p> Esfregue o pato por dentro e por fora com sal e pimenta do reino.
+            Coloque sobre a grade do forno.
+            Embaixo coloque uma assadeira grande para o líquido que vai caindo enquanto o pato assa.
+            Leve ao forno moderado pré aquecido (180ºC).
+            Dissolva o cubinho de caldo de galinha na água e vá molhando o pato com o caldo de galinha.
+            Descasque as laranjas e reserve.
+            Retire toda a parte branca da casca.
+            Corte as cascas em tiras.
+            Leve-as ao fogo, em uma panela pequena, com água suficiente para cobrir.
+            Deixe levantar fervura e cozinhe por uns 5 minutos.
+            Escorra.
+            Quando o pato estiver assado e macio, desengordure o líquido da assadeira.
+            Despeje em uma panela pequena.
+            Junte o amido de milho, dissolvido na água.
+            Verifique o tempero.
+            Leve ao fogo e cozinhe mexendo até que engrosse um pouco.
+            Acrescente a casca de laranja.
+            Se desejar poderá acrescentar um pouco de suco de laranja ou vinho branco ao molho.
+            Enfeite a travessa com laranjas.</p>
+
+            <h3 style="clear:left">Ingredientes</h3>
+            <ul>
+                <li>1 pato de uns 2kg</li>
+                <li>Sal e pimenta do reino a gosto</li>
+                <li>2 laranjas</li>
+                <li>2 xícaras (chá) de água fervente</li>
+                <li>1 cubinho de caldo de galinha</li>
+                <li>2 colheres (chá) de amido de milho</li>
+                <li>1 colher (sopa) de água</li>
+                <li>Laranja para enfeitar</li>
+                <li>Suco de laranja ou vinho branco (opcional)</li>
+            </ul>
+    </body>
+
+</html>
